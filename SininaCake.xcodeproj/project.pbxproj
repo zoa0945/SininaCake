@@ -30,6 +30,7 @@
 		8ECB21AF2B1DC00A003BF8B0 /* Pretendard-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A62B1DC00A003BF8B0 /* Pretendard-Bold.otf */; };
 		8ECB21B02B1DC00A003BF8B0 /* Pretendard-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A72B1DC00A003BF8B0 /* Pretendard-SemiBold.otf */; };
 		8ECB21B12B1DC00A003BF8B0 /* Pretendard-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A82B1DC00A003BF8B0 /* Pretendard-Light.otf */; };
+		8ED333402B218BFF0093BDFB /* OrderListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */; };
 		9A35885D2B02274600501E60 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A35885C2B02274600501E60 /* GoogleService-Info.plist */; };
 		9A3588602B0227DB00501E60 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 9A35885F2B0227DB00501E60 /* FirebaseAnalytics */; };
 		9A3588622B0227DB00501E60 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */ = {isa = PBXBuildFile; productRef = 9A3588612B0227DB00501E60 /* FirebaseAnalyticsOnDeviceConversion */; };
@@ -86,6 +87,7 @@
 		8ECB21A72B1DC00A003BF8B0 /* Pretendard-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-SemiBold.otf"; sourceTree = "<group>"; };
 		8ECB21A82B1DC00A003BF8B0 /* Pretendard-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Light.otf"; sourceTree = "<group>"; };
 		8ECB21B22B1DC05E003BF8B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListModel.swift; sourceTree = "<group>"; };
 		9A35885C2B02274600501E60 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -184,6 +186,7 @@
 				8E874BB92B00B62600ECEF08 /* CakeDetailManagerView.swift */,
 				8E874BBD2B00B66F00ECEF08 /* CalendarView.swift */,
 				8E874BC52B00BBA000ECEF08 /* OrderListView.swift */,
+				8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
@@ -336,6 +339,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8ED333402B218BFF0093BDFB /* OrderListModel.swift in Sources */,
 				8E874BAD2B00B40D00ECEF08 /* LoginView.swift in Sources */,
 				8E874BBA2B00B62600ECEF08 /* CakeDetailManagerView.swift in Sources */,
 				8E874B9F2B00B37200ECEF08 /* SininaCakeApp.swift in Sources */,
