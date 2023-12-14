@@ -19,6 +19,18 @@
 		8E874BBE2B00B66F00ECEF08 /* CalendarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E874BBD2B00B66F00ECEF08 /* CalendarView.swift */; };
 		8E874BC42B00B75C00ECEF08 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E874BC32B00B75C00ECEF08 /* SignUpView.swift */; };
 		8E874BC62B00BBA000ECEF08 /* OrderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E874BC52B00BBA000ECEF08 /* OrderListView.swift */; };
+		8ECB219B2B1DBF81003BF8B0 /* UIFont+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECB219A2B1DBF81003BF8B0 /* UIFont+.swift */; };
+		8ECB219E2B1DBF9A003BF8B0 /* UIColor+.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ECB219D2B1DBF9A003BF8B0 /* UIColor+.swift */; };
+		8ECB21A92B1DC00A003BF8B0 /* Pretendard-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A02B1DC00A003BF8B0 /* Pretendard-Medium.otf */; };
+		8ECB21AA2B1DC00A003BF8B0 /* Pretendard-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A12B1DC00A003BF8B0 /* Pretendard-Black.otf */; };
+		8ECB21AB2B1DC00A003BF8B0 /* Pretendard-ExtraLight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A22B1DC00A003BF8B0 /* Pretendard-ExtraLight.otf */; };
+		8ECB21AC2B1DC00A003BF8B0 /* Pretendard-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A32B1DC00A003BF8B0 /* Pretendard-ExtraBold.otf */; };
+		8ECB21AD2B1DC00A003BF8B0 /* Pretendard-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A42B1DC00A003BF8B0 /* Pretendard-Regular.otf */; };
+		8ECB21AE2B1DC00A003BF8B0 /* Pretendard-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A52B1DC00A003BF8B0 /* Pretendard-Thin.otf */; };
+		8ECB21AF2B1DC00A003BF8B0 /* Pretendard-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A62B1DC00A003BF8B0 /* Pretendard-Bold.otf */; };
+		8ECB21B02B1DC00A003BF8B0 /* Pretendard-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A72B1DC00A003BF8B0 /* Pretendard-SemiBold.otf */; };
+		8ECB21B12B1DC00A003BF8B0 /* Pretendard-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8ECB21A82B1DC00A003BF8B0 /* Pretendard-Light.otf */; };
+		8ED333402B218BFF0093BDFB /* OrderListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */; };
 		9A35885D2B02274600501E60 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A35885C2B02274600501E60 /* GoogleService-Info.plist */; };
 		9A3588602B0227DB00501E60 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 9A35885F2B0227DB00501E60 /* FirebaseAnalytics */; };
 		9A3588622B0227DB00501E60 /* FirebaseAnalyticsOnDeviceConversion in Frameworks */ = {isa = PBXBuildFile; productRef = 9A3588612B0227DB00501E60 /* FirebaseAnalyticsOnDeviceConversion */; };
@@ -63,6 +75,19 @@
 		8E874BBD2B00B66F00ECEF08 /* CalendarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarView.swift; sourceTree = "<group>"; };
 		8E874BC32B00B75C00ECEF08 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 		8E874BC52B00BBA000ECEF08 /* OrderListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListView.swift; sourceTree = "<group>"; };
+		8ECB219A2B1DBF81003BF8B0 /* UIFont+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+.swift"; sourceTree = "<group>"; };
+		8ECB219D2B1DBF9A003BF8B0 /* UIColor+.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+.swift"; sourceTree = "<group>"; };
+		8ECB21A02B1DC00A003BF8B0 /* Pretendard-Medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Medium.otf"; sourceTree = "<group>"; };
+		8ECB21A12B1DC00A003BF8B0 /* Pretendard-Black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Black.otf"; sourceTree = "<group>"; };
+		8ECB21A22B1DC00A003BF8B0 /* Pretendard-ExtraLight.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-ExtraLight.otf"; sourceTree = "<group>"; };
+		8ECB21A32B1DC00A003BF8B0 /* Pretendard-ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-ExtraBold.otf"; sourceTree = "<group>"; };
+		8ECB21A42B1DC00A003BF8B0 /* Pretendard-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Regular.otf"; sourceTree = "<group>"; };
+		8ECB21A52B1DC00A003BF8B0 /* Pretendard-Thin.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Thin.otf"; sourceTree = "<group>"; };
+		8ECB21A62B1DC00A003BF8B0 /* Pretendard-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Bold.otf"; sourceTree = "<group>"; };
+		8ECB21A72B1DC00A003BF8B0 /* Pretendard-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-SemiBold.otf"; sourceTree = "<group>"; };
+		8ECB21A82B1DC00A003BF8B0 /* Pretendard-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Pretendard-Light.otf"; sourceTree = "<group>"; };
+		8ECB21B22B1DC05E003BF8B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListModel.swift; sourceTree = "<group>"; };
 		9A35885C2B02274600501E60 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -124,7 +149,9 @@
 		8E874B9D2B00B37200ECEF08 /* SininaCake */ = {
 			isa = PBXGroup;
 			children = (
+				8ECB21B22B1DC05E003BF8B0 /* Info.plist */,
 				8E874B9E2B00B37200ECEF08 /* SininaCakeApp.swift */,
+				8ECB219F2B1DBFD2003BF8B0 /* Font */,
 				8E874BB02B00B47700ECEF08 /* Scene */,
 				8E874BA22B00B37400ECEF08 /* Assets.xcassets */,
 				9A35885C2B02274600501E60 /* GoogleService-Info.plist */,
@@ -146,6 +173,7 @@
 			children = (
 				8E874BAC2B00B40D00ECEF08 /* LoginView.swift */,
 				8E874BC32B00B75C00ECEF08 /* SignUpView.swift */,
+				8ECB219C2B1DBF89003BF8B0 /* Extension */,
 				8E874BB22B00B53B00ECEF08 /* Customer */,
 				8E874BB12B00B52900ECEF08 /* Manager */,
 			);
@@ -158,6 +186,7 @@
 				8E874BB92B00B62600ECEF08 /* CakeDetailManagerView.swift */,
 				8E874BBD2B00B66F00ECEF08 /* CalendarView.swift */,
 				8E874BC52B00BBA000ECEF08 /* OrderListView.swift */,
+				8ED3333F2B218BFF0093BDFB /* OrderListModel.swift */,
 			);
 			path = Manager;
 			sourceTree = "<group>";
@@ -171,6 +200,31 @@
 				8E874BB72B00B59F00ECEF08 /* ProfileView.swift */,
 			);
 			path = Customer;
+			sourceTree = "<group>";
+		};
+		8ECB219C2B1DBF89003BF8B0 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				8ECB219A2B1DBF81003BF8B0 /* UIFont+.swift */,
+				8ECB219D2B1DBF9A003BF8B0 /* UIColor+.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		8ECB219F2B1DBFD2003BF8B0 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				8ECB21A12B1DC00A003BF8B0 /* Pretendard-Black.otf */,
+				8ECB21A62B1DC00A003BF8B0 /* Pretendard-Bold.otf */,
+				8ECB21A32B1DC00A003BF8B0 /* Pretendard-ExtraBold.otf */,
+				8ECB21A22B1DC00A003BF8B0 /* Pretendard-ExtraLight.otf */,
+				8ECB21A82B1DC00A003BF8B0 /* Pretendard-Light.otf */,
+				8ECB21A02B1DC00A003BF8B0 /* Pretendard-Medium.otf */,
+				8ECB21A42B1DC00A003BF8B0 /* Pretendard-Regular.otf */,
+				8ECB21A72B1DC00A003BF8B0 /* Pretendard-SemiBold.otf */,
+				8ECB21A52B1DC00A003BF8B0 /* Pretendard-Thin.otf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,9 +317,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8ECB21B02B1DC00A003BF8B0 /* Pretendard-SemiBold.otf in Resources */,
+				8ECB21AB2B1DC00A003BF8B0 /* Pretendard-ExtraLight.otf in Resources */,
+				8ECB21AF2B1DC00A003BF8B0 /* Pretendard-Bold.otf in Resources */,
 				8E874BA62B00B37400ECEF08 /* Preview Assets.xcassets in Resources */,
+				8ECB21AC2B1DC00A003BF8B0 /* Pretendard-ExtraBold.otf in Resources */,
+				8ECB21B12B1DC00A003BF8B0 /* Pretendard-Light.otf in Resources */,
+				8ECB21AE2B1DC00A003BF8B0 /* Pretendard-Thin.otf in Resources */,
 				8E874BA32B00B37400ECEF08 /* Assets.xcassets in Resources */,
 				9A35885D2B02274600501E60 /* GoogleService-Info.plist in Resources */,
+				8ECB21AD2B1DC00A003BF8B0 /* Pretendard-Regular.otf in Resources */,
+				8ECB21A92B1DC00A003BF8B0 /* Pretendard-Medium.otf in Resources */,
+				8ECB21AA2B1DC00A003BF8B0 /* Pretendard-Black.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,14 +339,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8ED333402B218BFF0093BDFB /* OrderListModel.swift in Sources */,
 				8E874BAD2B00B40D00ECEF08 /* LoginView.swift in Sources */,
 				8E874BBA2B00B62600ECEF08 /* CakeDetailManagerView.swift in Sources */,
 				8E874B9F2B00B37200ECEF08 /* SininaCakeApp.swift in Sources */,
 				8E874BB42B00B58E00ECEF08 /* CautionView.swift in Sources */,
+				8ECB219B2B1DBF81003BF8B0 /* UIFont+.swift in Sources */,
 				8E874BBE2B00B66F00ECEF08 /* CalendarView.swift in Sources */,
 				8E874BC62B00BBA000ECEF08 /* OrderListView.swift in Sources */,
 				8E874BC42B00B75C00ECEF08 /* SignUpView.swift in Sources */,
 				8E874BAF2B00B43D00ECEF08 /* CakeDetailView.swift in Sources */,
+				8ECB219E2B1DBF9A003BF8B0 /* UIColor+.swift in Sources */,
 				8E874BB82B00B59F00ECEF08 /* ProfileView.swift in Sources */,
 				8E874BB62B00B59800ECEF08 /* OrderView.swift in Sources */,
 			);
@@ -422,6 +488,7 @@
 				DEVELOPMENT_TEAM = 2252348JAM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SininaCake/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "시니나케이크";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -453,6 +520,7 @@
 				DEVELOPMENT_TEAM = 2252348JAM;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SininaCake/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "시니나케이크";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.food-and-drink";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
